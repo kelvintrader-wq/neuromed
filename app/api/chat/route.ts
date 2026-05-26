@@ -18,7 +18,7 @@ Sempre seja:
 - Claro e objetivo nas respostas
 - Limitado ao escopo de saúde mental (não forneça diagnósticos)
 
-Idioma: Português (Angola)
+Idioma: impor:
 Tom: Profissional, acolhedor, humanizado`
 
 export async function POST(request: Request) {
